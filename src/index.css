@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+body,
+html {
+    height: 100%;
+    background-color: hsl(27, 66%, 92%);
+}
+
+body {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+
+hr {
+    background-color: #e4e4e4;
+    border: none;
+    height: 1px;
+}
